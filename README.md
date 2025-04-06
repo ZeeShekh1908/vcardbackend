@@ -1,35 +1,5 @@
-Here's a  file that includes both the instructions on using the application and the setup guide for running the Node.js server with an SQL database.
-
-[Live Demo](https://visitingcardgenerator.netlify.app/)
 
 
-# Template Creator
-
-An application that allows users to create custom templates, customize according to their needs, download creations, and save them for later access in their profile. This application uses an SQL database to store the Firebase URL for saved templates, which can be accessed later in the user profile.
-
-## Features
-
-1. **Choose Your Templates**: Select from a variety of templates to get started.
-2. **Customize According to Your Needs**: Modify template elements to suit your requirements.
-3. **Download Your Creation**: Once satisfied, download your customized template.
-4. **Save and Access Later in Profile**: Save your creation, and access it anytime in your profile.
-
-## How It Works
-
-1. **Choose Your Template**: Start by selecting a template that matches your needs.
-2. **Customize the Template**: Modify text, colors, fonts, and other elements to create a personalized design.
-3. **Download Your Creation**: Click the download button to save the final version to your device.
-4. **Save and Access Later**: Save the template URL in SQL (via Firebase) for later use. Access saved designs through your profile.
-
-## Getting Started
-
-### Prerequisites
-
-Ensure you have the following installed on your machine:
-- [Node.js](https://nodejs.org/) (v14 or above)
-- SQL database (e.g., MySQL, PostgreSQL)
-
-### Installation and Setup
 
 1. **Clone the Repository**
 
